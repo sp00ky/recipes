@@ -1,0 +1,171 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chinese Takeout Egg Foo Young",
+  "description": "Chinese takeout-style Egg Foo Young with crispy egg patties and rich gravy, inspired by the YouTube recipe.",
+  "recipeCuisine": "Chinese",
+  "recipeCategory": "Main course",
+  "keywords": "egg foo young, chinese takeout, egg patties, gravy",
+  "recipeYield": "3 servings",
+  "video": {
+    "@type": "VideoObject",
+    "name": "Chinese Takeout Egg Foo Young Recipe",
+    "url": "https://youtu.be/SBhxiEJ1RMk"
+  },
+  "recipeIngredient": [
+    "For the egg patties: 1 tbsp (9 grams) cornstarch",
+    "For the egg patties: 1/2 tsp (1.5 grams) salt",
+    "For the egg patties: 1 tsp (5 grams) chicken bouillon powder",
+    "For the egg patties: 1/2 tsp (2 grams) sugar",
+    "For the egg patties: 1/8 tsp (0.25 gram) white pepper",
+    "For the egg patties: 3/4–1 cup (75–100 grams) bean sprouts, rough chopped",
+    "For the egg patties: 1/4 cup (25 grams) thinly sliced onion",
+    "For the egg patties: 2 tbsp (12 grams) green onion whites",
+    "For the egg patties: 3 large eggs",
+    "For the egg patties: 1 tsp (5 ml) light soy sauce",
+    "For the egg patties: 1/4 tsp (1.25 ml) sesame oil",
+    "For the egg patties: Neutral frying oil (vegetable, canola, peanut, etc.) for deep frying",
+
+    "For the quick takeout gravy: 2 tbsp (38 grams) oyster sauce",
+    "For the quick takeout gravy: 2 tsp (10 ml) light soy sauce",
+    "For the quick takeout gravy: 1/2 tsp (2.5 ml) dark soy sauce",
+    "For the quick takeout gravy: 1/2 tsp (1.5 grams) salt",
+    "For the quick takeout gravy: 2 tsp (8 grams) sugar",
+    "For the quick takeout gravy: 1/8 tsp (0.25 gram) white pepper",
+    "For the quick takeout gravy: 1/8 tsp (0.5 gram) MSG",
+    "For the quick takeout gravy: 1 tbsp (9 grams) cornstarch",
+    "For the quick takeout gravy: 1 cup (235 ml) chicken broth",
+    "For the quick takeout gravy: 1/4 tsp (1.25 ml) sesame oil",
+
+    "For the old-school roux-based gravy: 1 cup (235 ml) chicken broth, or 1 cup water + 1 tsp chicken bouillon powder",
+    "For the old-school roux-based gravy: 2 tbsp (38 grams) oyster sauce",
+    "For the old-school roux-based gravy: 2 tsp (10 ml) light soy sauce",
+    "For the old-school roux-based gravy: 1.5 tsp (7.5 ml) dark soy sauce",
+    "For the old-school roux-based gravy: 1 tbsp (15 ml) Shaoxing wine",
+    "For the old-school roux-based gravy: 1/4 tsp (0.7 gram) salt",
+    "For the old-school roux-based gravy: 1 tsp (4 grams) white sugar",
+    "For the old-school roux-based gravy: 1/8 tsp (0.25 gram) white pepper",
+    "For the old-school roux-based gravy: 1/8 tsp (0.5 gram) MSG",
+    "For the old-school roux-based gravy: 3 tbsp (45 ml) neutral oil",
+    "For the old-school roux-based gravy: 1 tbsp (12 grams) green onion whites",
+    "For the old-school roux-based gravy: 1 garlic clove, smashed",
+    "For the old-school roux-based gravy: 2 tbsp (15 grams) white flour",
+    "For the old-school roux-based gravy: 1/4 tsp (1.25 ml) sesame oil",
+
+    "To serve: Green onions, thinly sliced, for garnish",
+    "To serve: Egg patties (from this recipe)",
+    "To serve: Quick takeout gravy or old-school gravy (from this recipe)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Make the egg patties",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat neutral frying oil in a large pot to 350°F (175°C)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, mix together cornstarch, salt, chicken bouillon powder, sugar, and white pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roughly chop the bean sprouts and toss with the thinly sliced onion and green onion whites."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the seasoned cornstarch mixture with the vegetable mixture until evenly coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the 3 large eggs, light soy sauce, and sesame oil to the vegetable mixture and gently fold together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Using a large spoon or ladle, scoop about 1/2 cup of the patty mixture and gently lower it into the hot oil. Repeat with remaining mixture to form about 3 large patties."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook each patty for 3–5 minutes on the first side, basting the top with hot oil to help it set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Flip the patties and cook for another 3–5 minutes, or until cooked through and golden."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the patties to a wire rack or a plate lined with paper towels, smooth side up, to drain."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Make the quick takeout-style gravy",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "In a small pot, add oyster sauce, light soy sauce, dark soy sauce, salt, sugar, white pepper, MSG, cornstarch, and chicken broth. Whisk until well combined and smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the mixture to a boil, then reduce to a simmer and cook for 1–2 minutes, whisking, until the gravy thickens to the desired consistency."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from heat and whisk in the sesame oil."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Make the old-school roux-based takeout gravy",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, combine chicken broth (or water and bouillon), oyster sauce, light soy sauce, dark soy sauce, Shaoxing wine, salt, sugar, white pepper, and MSG. Whisk until well combined and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a small pot, heat neutral oil over medium heat. Add the green onion whites and smashed garlic clove and sauté until browned. Remove the solids, leaving the flavored oil behind."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lower the heat to medium-low, add the flour, and whisk it into the oil to form a roux. Cook until lightly browned and it smells like baked bread."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "While whisking constantly, slowly pour the chicken broth mixture into the roux, a little at a time, until fully incorporated and smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Raise the heat to medium and simmer for several minutes, whisking, until the gravy thickens enough to coat the back of a spoon."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Strain the gravy through a mesh strainer to remove any clumps and whisk in the sesame oil."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Assemble the Egg Foo Young",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Place the egg patties on serving plates."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Generously ladle either the quick takeout gravy or old-school roux-based gravy over the patties."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with thinly sliced green onions and serve immediately."
+        }
+      ]
+    }
+  ]
+}
+</script>
