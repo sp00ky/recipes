@@ -1,0 +1,206 @@
+---
+id: egg-foo-young-master
+title: Egg Foo Young (Master Recipe)
+link: https://youtu.be/SBhxiEJ1RMk
+yield: 3 servings
+
+ingredients:
+  - item: Egg Patties
+    quantity: 1 recipe
+    recipe_ref: egg-patties
+  - item: Gravy (quick or old-school)
+    quantity: 1 recipe
+    recipe_ref: quick-gravy
+    notes: Or use old-school gravy (see recipe)
+  - item: Green onions
+    notes: thinly sliced
+
+instructions:
+  - step: 1
+    text: Place omelets on a plate.
+  - step: 2
+    text: Pour gravy generously over the patties.
+  - step: 3
+    text: Garnish with sliced scallions.
+
+notes: "This recipe references the patty and gravy subrecipes."
+---
+
+id: egg-patties
+title: Egg Foo Young – Egg Patties
+yield: 3 patties
+
+ingredients:
+  - quantity: 1 tbsp
+    weight: 9 g
+    item: Cornstarch
+  - quantity: 1/2 tsp
+    weight: 1.5 g
+    item: Salt
+  - quantity: 1 tsp
+    weight: 5 g
+    item: Chicken bouillon powder
+  - quantity: 1/2 tsp
+    weight: 2 g
+    item: Sugar
+  - quantity: 1/8 tsp
+    weight: 0.25 g
+    item: White pepper
+
+  - quantity: 3/4–1 cup
+    weight: 75–100 g
+    item: Bean sprouts
+    notes: rough chopped
+
+  - quantity: 1/4 cup
+    weight: 25 g
+    item: Onion
+    notes: thinly sliced
+
+  - quantity: 2 tbsp
+    weight: 12 g
+    item: Green onion whites
+
+  - quantity: 3
+    item: Large eggs
+  - quantity: 1 tsp
+    volume: 5 ml
+    item: Light soy sauce
+  - quantity: 1/4 tsp
+    volume: 1.25 ml
+    item: Sesame oil
+
+  - item: Frying oil
+    notes: neutral oil such as vegetable, canola, or peanut
+
+instructions:
+  - step: 1
+    text: Heat frying oil in a large pot to 350°F (175°C).
+  - step: 2
+    text: In a small bowl, mix cornstarch, salt, bouillon powder, sugar, and white pepper.
+  - step: 3
+    text: Roughly chop bean sprouts, then toss with sliced onion and scallion whites.
+  - step: 4
+    text: Toss the seasoned cornstarch mixture with the vegetables.
+  - step: 5
+    text: Add eggs, soy sauce, and sesame oil; gently fold into the vegetables.
+  - step: 6
+    text: Scoop about 1/2 cup of mixture with a large spoon or wok ladle and gently lower into hot oil; repeat to make 3 patties.
+  - step: 7
+    text: Cook 3–5 minutes, basting the top with oil.
+  - step: 8
+    text: Flip and cook another 3–5 minutes, until done.
+  - step: 9
+    text: Remove to a wire rack or paper towels, smooth side up.
+---
+
+id: quick-gravy
+title: Egg Foo Young – Quick Takeout Gravy
+yield: about 1 cup
+
+ingredients:
+  - quantity: 2 tbsp
+    weight: 38 g
+    item: Oyster sauce
+  - quantity: 2 tsp
+    volume: 10 ml
+    item: Light soy sauce
+  - quantity: 1/2 tsp
+    volume: 2.5 ml
+    item: Dark soy sauce
+  - quantity: 1/2 tsp
+    weight: 1.5 g
+    item: Salt
+  - quantity: 2 tsp
+    weight: 8 g
+    item: Sugar
+  - quantity: 1/8 tsp
+    weight: 0.25 g
+    item: White pepper
+  - quantity: 1/8 tsp
+    weight: 0.5 g
+    item: MSG
+  - quantity: 1 tbsp
+    weight: 9 g
+    item: Cornstarch
+  - quantity: 1 cup
+    volume: 235 ml
+    item: Chicken broth
+  - quantity: 1/4 tsp
+    volume: 1.25 ml
+    item: Sesame oil
+
+instructions:
+  - step: 1
+    text: Add all ingredients except sesame oil to a small pot and whisk until smooth.
+  - step: 2
+    text: Bring to a boil, then reduce to a simmer and cook 1–2 minutes until thickened.
+  - step: 3
+    text: Remove from heat and whisk in sesame oil.
+---
+
+id: old-school-gravy
+title: Egg Foo Young – Old-School Roux-Based Takeout Gravy
+yield: about 1 cup
+
+ingredients:
+  - quantity: 1 cup
+    volume: 235 ml
+    item: Chicken broth
+    notes: or 1 cup water + 1 tsp chicken bouillon powder
+
+  - quantity: 2 tbsp
+    weight: 38 g
+    item: Oyster sauce
+  - quantity: 2 tsp
+    volume: 10 ml
+    item: Light soy sauce
+  - quantity: 1.5 tsp
+    volume: 7.5 ml
+    item: Dark soy sauce
+  - quantity: 1 tbsp
+    volume: 15 ml
+    item: Shaoxing wine
+  - quantity: 1/4 tsp
+    weight: 0.7 g
+    item: Salt
+  - quantity: 1 tsp
+    weight: 4 g
+    item: White sugar
+  - quantity: 1/8 tsp
+    weight: 0.25 g
+    item: White pepper
+  - quantity: 1/8 tsp
+    weight: 0.5 g
+    item: MSG
+
+  - quantity: 3 tbsp
+    volume: 45 ml
+    item: Neutral oil
+  - quantity: 1 tbsp
+    weight: 12 g
+    item: Green onion whites
+  - item: Garlic clove
+    notes: smashed
+
+  - quantity: 2 tbsp
+    weight: 15 g
+    item: White flour
+
+  - quantity: 1/4 tsp
+    volume: 1.25 ml
+    item: Sesame oil
+
+instructions:
+  - step: 1
+    text: Combine broth with oyster sauce, soy sauces, Shaoxing wine, salt, sugar, white pepper, and MSG; whisk well and set aside.
+  - step: 2
+    text: Heat neutral oil in a small pot over medium heat; add scallion whites and garlic and sauté until browned. Remove solids.
+  - step: 3
+    text: Add flour and whisk over medium-low heat until lightly browned and aromatic.
+  - step: 4
+    text: Slowly add the broth mixture while whisking to avoid clumps.
+  - step: 5
+    text: Raise heat to medium and simmer until thick enough to coat a spoon.
+  - step: 6
+    text: Strain through a mesh strainer and whisk in sesame oil.
